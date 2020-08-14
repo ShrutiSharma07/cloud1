@@ -1,4 +1,4 @@
 #Sample blah
-println(All my exes live in Texas)
+println('All my exes live in Texas')
 println('Beezlebub')
 a=b+c
